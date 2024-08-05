@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyKeyboard.qml</file>
+        <file>MyScreen.qml</file>
+        <file>MyResultWindow.qml</file>
+    </qresource>
+</RCC>
