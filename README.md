@@ -1,0 +1,1 @@
+Meaningful words are stored in a .txt file. The program initially selects a random word from this file and sets it as the word to be guessed. Word predictions can be obtained from both the computer's keyboard and the on-screen keyboard that is designed in code. Word predictions' accuracy is described by colors.
